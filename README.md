@@ -6,7 +6,7 @@
 
 作为长期工程，初始协议和远期规划需要反复论证，谨以此不成熟的白皮书先行探讨，以臻完善。
 
-指南：[白皮书1（涉及前端与功能）](https://github.com/ReadClaw/MAILTOPIA/blob/main/whitepaper(AGPL-3.0%20license)/whitepaper1(AGPL-3.0%20license).zip) | [白皮书2（关于共识及底层）](https://github.com/ReadClaw/MAILTOPIA/blob/main/whitepaper(AGPL-3.0%20license)/whitepaper2.doc)
+指南：[白皮书1（涉及前端与功能）](https://github.com/ReadClaw/MAILTOPIA/blob/main/whitepaper/whitepaper1(AGPL-3.0%20license).zip) | [白皮书2（关于共识及底层）](https://github.com/ReadClaw/MAILTOPIA/blob/main/whitepaper/whitepaper2.doc)
 
 需求：
 前端：在一个称为“心流”的智能层中运行，每次交互的实行界面由AI调取，瞬时渲染出来
@@ -61,6 +61,6 @@
 <details>
   <summary>附：契约基石参考图解</summary>
   
-  ![附：契约基石参考图解](https://github.com/ReadClaw/MAILTOPIA/raw/main/whitepaper(AGPL-3.0%20license)/whitepaper2.png)
+  ![附：契约基石参考图解](https://github.com/ReadClaw/MAILTOPIA/blob/main/whitepaper/whitepaper2.png)
   
 </details>
