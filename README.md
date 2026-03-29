@@ -71,12 +71,10 @@
 
 
 <details>
-  <summary>附：契约基石参考图解</summary>
+  <summary>附：契约基石参考图解（点击可展开）</summary>
   
-  ![<mark>附：契约基石参考图解</mark>](https://github.com/ReadClaw/MAILTOPIA/blob/main/whitepaper/whitepaper2.png)
+  ![附：契约基石参考图解](https://github.com/ReadClaw/MAILTOPIA/blob/main/whitepaper/whitepaper2.png)
   
 </details>
 
->-
-
-<mark>本项目并非说明未来万物互联的系统就一定是Mialtopia，只是以此为例说明新的、适应太空探索发展的操作系统之必要性，陈明现如今互联网之弊端。如果有大厂提出更优方案或愿意主导自然甚好，只是要求必须永远地、完全地开源，并遵从人的共识，且代码清晰利落可供审查。</mark>
+>- <mark>本项目并非说明未来万物互联的系统就一定是Mialtopia，只是以此为例说明新的、适应太空探索发展的操作系统之必要性，陈明现如今互联网之弊端。如果有大厂提出更优方案或愿意主导自然甚好，只是要求必须永远地、完全地开源，并遵从人的共识，且代码清晰利落可供审查。</mark>
