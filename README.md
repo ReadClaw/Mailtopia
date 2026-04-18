@@ -6,7 +6,7 @@
 
 作为长期项目，初始协议和远景规划仍需要反复地论证，谨以此不成熟的白皮书先行探讨，求得日臻完善——让我们一起来编制吧！（不一定先动手，可以先探讨完善；不一定参加本项目，能出现比本项目优的就更好，去支持它！）
 
-> 指南：[白皮书1（涉及前端与功能）](https://github.com/ReadClaw/MAILTOPIA/raw/refs/heads/main/whitepaper/whitepaper1(AGPL-3.0%20license).zip) | [白皮书2（关于共识及底层）](https://github.com/ReadClaw/MAILTOPIA/raw/refs/heads/main/whitepaper/whitepaper2.doc) | 字数多说明认真程度高(https://github.com/ReadClaw/)
+> 指南：[白皮书1（涉及前端与功能）](https://github.com/ReadClaw/MAILTOPIA/raw/refs/heads/main/whitepaper/whitepaper1(AGPL-3.0%20license).zip) | [白皮书2（关于共识及底层）](https://github.com/ReadClaw/MAILTOPIA/raw/refs/heads/main/whitepaper/whitepaper2.doc) | [字数多说明认真程度高](https://github.com/ReadClaw/)
 
 > 需求：(以下，暂算博文吧)
    - 前端：在一个称为“心流”的智能层中运行，每次交互的实行界面由AI调取，瞬时渲染给人看（这里强调"人"）
